@@ -1,0 +1,2 @@
+# ADBMS_23BCS14058_KRG1b
+dbms
